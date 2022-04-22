@@ -1,56 +1,37 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# OOP school library
 
-> Description the project.
-
+>  A tool used to record books that are in the library and who borrows them
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
-
-## Live Demo (if available)
-
-[Live Demo Link](https://livedemo.com)
-
+- Ruby
 
 ## Getting Started
-
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
 To get a local copy up and running follow these simple example steps.
 
-### Prerequisites
+## Prerequisites
+You must have Ruby installed on your computer.
 
-### Setup
+## Setup
+Clone this repository using git clone git@github.com:danielufeli/oop-school-library.git
 
-### Install
+## Navigate to the correct folder
+On your terminal, run: cd oop-school-library.
 
-### Usage
-
-### Run tests
-
-### Deployment
-
+## To run the code
+On your terminal, run: ruby person.rb.
 
 
 ## Authors
 
-👤 **Author1**
+👤 **Daniel Ufeli**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@danielufeli](https://github.com/danielufeli)
+- Twitter: [@danielufeli](https://twitter.com/danielufeli)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/danielcode)
 
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
 ## 🤝 Contributing
 
@@ -64,9 +45,7 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+- Hat tip to all my partners and code reviewers at Microverse.
 
 ## 📝 License
 
