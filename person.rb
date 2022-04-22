@@ -19,4 +19,5 @@ class Person
   def is_of_age?
     @age >= 18
   end
+  # rubocop:enable Naming/PredicateName
 end
