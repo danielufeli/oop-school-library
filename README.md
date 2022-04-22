@@ -21,7 +21,7 @@ Clone this repository using git clone git@github.com:danielufeli/oop-school-libr
 On your terminal, run: cd oop-school-library.
 
 ## To run the code
-On your terminal, run: ruby person.rb.
+On your terminal, run: ruby main.rb.
 
 
 ## Authors
